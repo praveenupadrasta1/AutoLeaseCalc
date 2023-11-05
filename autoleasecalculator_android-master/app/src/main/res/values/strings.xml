@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Auto Lease Calculator</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="auto_lease_calculator">Auto Lease Calculator</string>
+    <string name="sticker_price">Sticker Price ($): </string>
+    <string name="residual_percentage">Residual (%) </string>
+    <string name="neg_sales_price">Negotiated Sales Price ($) </string>
+    <string name="down_payment">Down Payment ($) </string>
+    <string name="lease_acq_fee">Lease Acquisition Fees ($) </string>
+    <string name="doc_tire_fee">Doc and Tire Fee ($) </string>
+    <string name="money_factor">Money Factor </string>
+    <string name="lease_months">Lease Months </string>
+    <string name="tax_rate">Tax rate (%) </string>
+    <string name="reg_fee">Registration Fee ($) </string>
+    <string name="calculate">Calculate Lease Amount</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="close">Close</string>
+
+    <string name="residual_value">Residual Value</string>
+    <string name="total_fees">Total Fees</string>
+    <string name="adj_capital_cost">Adjusted Capital Cost</string>
+    <string name="dep_amount">Depreciation Amount</string>
+    <string name="base_payment">Base Payment</string>
+    <string name="monthly_rent">Monthly Rent</string>
+    <string name="total_lease_without_tax">Total Lease Without Tax</string>
+    <string name="total_lease_with_tax">Total Lease With Tax</string>
+    <string name="drive_off">Drive off</string>
+    <string name="total_cost_lease">Total Cost of Lease</string>
+</resources>

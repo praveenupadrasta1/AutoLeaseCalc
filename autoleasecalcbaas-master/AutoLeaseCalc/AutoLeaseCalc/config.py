@@ -1,0 +1,68 @@
+################## USER AUTHENTICATION ##################
+TOKEN_KEY = "token"
+ERRORS_KEY = "errors"
+PASSWORD_KEY = "password"
+USERNAME_KEY = "username"
+USER_KEY = "user"
+
+INVALID_CREDENTIALS = "Invalid Credentials!"
+USER_DEACTIVATED = "User account deactivated!"
+
+PASSWORD_MIN_LENGTH = 8
+
+################### CUSTOMER #####################
+TITLE_KEY        = "title"
+FIRST_NAME_KEY   = "first_name"
+LAST_NAME_KEY    = "last_name"
+ADD_ST_1_KEY     = "street_1"
+ADD_ST_2_KEY     = "street_2"
+CITY_KEY         = "city"
+STATE_KEY        = "state"
+ZIP_KEY          = "zip"
+COUNTRY_KEY      = "country"
+PHONE_1_KEY      = "phone_1"
+PHONE_1_TYPE_KEY = "phone_1_type"
+PHONE_2_KEY      = "phone_2"
+PHONE_2_TYPE_KEY = "phone_2_type"
+EMAIL_KEY        = "email"
+UNIQUE_KEY       = "unique"
+DATA_KEY         = "data"
+CUSTOMER_KEY     = "customer"
+
+INVALID_PHONE_NUMBER_1 = "Invalid phone number 1!"
+INVALID_PHONE_NUMBER_2 = "Invalid phone number 2!"
+INVALID_EMAIL = "Invalid email address!"
+INVALID_COUNTRY = "Invalid Country!"
+INVALID_FIRST_NAME = "Invalid first name!"
+INVALID_LAST_NAME = "Invalid last name!"
+INVALID_CITY = "Invalid City name!"
+INVALID_STATE = "Invalid State name!"
+
+################### LEASE DETAILS ########################
+
+LEASE_KEY                   = "lease"
+INPUT_VALUES_KEY            = "input_values"
+STICKER_PRICE_KEY           = "sticker_price"
+RESIDUAL_PERCENT_KEY        = "residual_percent"
+NEG_SALES_PRICE_KEY         = "neg_sales_price"
+DOWN_PAYMENT_KEY            = "down_payment"
+LEASE_ACQ_FEE_KEY           = "lease_acq_fee"
+DOC_TIRE_FEE_KEY            = "doc_tire_fee"
+MONEY_FACTOR_KEY            = "money_factor"
+LEASE_MONTHS_KEY            = "lease_months"
+TAX_RATE_KEY                = "tax_rate"
+REG_FEE_KEY                 = "reg_fee"
+TOT_LEASE_WITH_TAX_KEY      = "tot_lease_with_tax"
+
+OUTPUT_VALUES_KEY           = "output_values"
+RESIDUAL_VALUE_KEY          = "residual_value"
+TOT_FEE_KEY                 = "tot_fee"
+ADJ_CAP_COST_KEY            = "adj_cap_cost"
+DEP_AMT_KEY                 = "dep_amt"
+BASE_PAY_KEY                = "base_pay"
+MONTH_RENT_KEY              = "month_rent"
+TOT_LEASE_WITHOUT_TAX_KEY   = "tot_lease_without_tax"
+DRIVE_OFF_KEY               = "drive_off"
+TOT_COST_OF_LEASE_KEY       = "tot_cost_of_lease"
+
+INVALID_DATA = "One or more fields has Invalid data!"
